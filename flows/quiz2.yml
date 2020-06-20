@@ -1,0 +1,49 @@
+completion_text: |-
+  <p>&nbsp;asdasd</p><p>&nbsp;as</p><p>das</p><p>d</p><p>&nbsp;as</p><p>da</p><p>sd&nbsp;</p><p>asd</p><p>as&nbsp;</p><p>d</p>
+description: "asdasd asdasas\r\ndas\r\nd"
+groups:
+- id: intro
+  pages:
+  - content: "<p>asd asdasd&nbsp;</p><p>asd</p><p>&nbsp;as</p><p>das</p><p>d</p><p>&nbsp;as</p><p><br></p><p>asd</p><p>&nbsp;as</p><p><br></p><p>as\
+      \ d</p> "
+    id: welcome
+    title: Quiz 1
+    type: Page
+- id: quiz_start
+  pages:
+  - choices:
+    - ~CORRECT~ 3
+    - '2'
+    - '1'
+    id: quizquestion3
+    prompt: ''
+    title: Cuantos colores tiene colombia?
+    type: ChoiceQuestion
+    value: 5.0
+  shuffle: false
+rules:
+  access:
+  - message: "\xA1Bienvenidos! Este mensaje es tra\xEDdo a usted por las reglas de\
+      \ acceso"
+    permissions:
+    - view
+    - submit_answer
+    - end_session
+    - see_correctness
+    - see_answer_after_submission
+  grade_aggregation_strategy: use_latest
+  grade_identifier: quiz2
+  grading:
+  - credit_percent: 50
+  start:
+  - may_list_existing_sessions: true
+    may_start_new_session: true
+  - if_before: 2020-10-05 12:00:00
+    if_has_fewer_sessions_than: 2
+    if_has_role:
+    - student
+    - ta
+    - instructor
+    may_list_existing_sessions: true
+    may_start_new_session: true
+title: Quiz 1
