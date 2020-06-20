@@ -1,0 +1,27 @@
+completion_text: |-
+  <p>sdfsfdsfdsfdsfdsfsdf</p>
+description: |-
+  asdas dasda sdad asd asdas
+next_flow_id: ''
+next_flow_title: ''
+pages:
+- content: |-
+    <p>asd asdasd asd</p><p>as&nbsp;</p><p>das</p><p>d&nbsp;</p><p>as</p><p>das</p><p>d as</p>
+  id: page1
+  title: PRimera parte
+  type: Page
+- content: |-
+    <p>asdasd asdas dasas</p><p>d&nbsp;</p><p>asd</p><p>&nbsp;as</p><p>das</p><p>&nbsp;</p><p>a</p><p>sd&nbsp;</p><p>asd&nbsp;</p><p>asd</p>
+  id: page2
+  title: 2da parte
+  type: Page
+rules:
+  access:
+  - if_has_role:
+    - ta
+    - student
+    - instructor
+    permissions:
+    - view
+  grade_identifier: null
+title: Semana1
