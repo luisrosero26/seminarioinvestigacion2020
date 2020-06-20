@@ -1,0 +1,16 @@
+chunks:
+- content: ''
+  flows:
+  - flow_id: flow1
+    next_flow: null
+    pages:
+    - flow_id: page1
+      title: PRimera parte
+    - flow_id: page2
+      title: 2da parte
+    title: Semana1
+    title_next_flow: ''
+  id: welcome
+  introduction: Un custo basico de introduccion
+  rules: []
+  title: "Seminario de investigaci\xF3n"
