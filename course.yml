@@ -2,14 +2,14 @@ chunks:
 - content: ''
   flows:
   - flow_id: flow1
-    next_flow: null
+    next_flow: quiz2
     pages:
     - flow_id: page1
       title: PRimera parte
     - flow_id: page2
       title: 2da parte
     title: Semana1
-    title_next_flow: ''
+    title_next_flow: Quiz
   id: welcome
   introduction: "<p style=\"margin-top: 9px; margin-bottom: 9px; padding: 0px; color:\
     \ rgb(68, 85, 85); font-family: Georgia, &quot;Times New Roman&quot;, Times, serif;\"\
