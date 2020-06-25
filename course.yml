@@ -11,6 +11,98 @@ chunks:
     title: Semana1
     title_next_flow: ''
   id: welcome
-  introduction: Un custo basico de introduccion
+  introduction: "<p style=\"margin-top: 9px; margin-bottom: 9px; padding: 0px; color:\
+    \ rgb(68, 85, 85); font-family: Georgia, &quot;Times New Roman&quot;, Times, serif;\"\
+    >La presente&nbsp;<a href=\"https://www.monografias.com/trabajos11/norma/norma.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">investigaci\xF3n</a>&nbsp;se refiere\
+    \ a las&nbsp;<a href=\"https://www.monografias.com/trabajos16/finanzas-operativas/finanzas-operativas.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">finanzas</a>&nbsp;y aspectos que\
+    \ la componen, que se pueden definir como una derivaci\xF3n de la&nbsp;<a href=\"\
+    https://www.monografias.com/trabajos54/resumen-economia/resumen-economia.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">econom\xEDa</a>&nbsp;que trata\
+    \ el tema relacionado con la obtenci\xF3n y&nbsp;<a href=\"https://www.monografias.com/trabajos15/sistemas-control/sistemas-control.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">gesti\xF3n</a>&nbsp;del&nbsp;<a\
+    \ href=\"https://www.monografias.com/trabajos16/marx-y-dinero/marx-y-dinero.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">dinero</a>,&nbsp;<a href=\"https://www.monografias.com/trabajos4/refrec/refrec.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">recursos</a>&nbsp;o&nbsp;<a href=\"\
+    https://www.monografias.com/trabajos13/capintel/capintel.shtml\" id=\"autolink\"\
+    \ class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width: 1px;\
+    \ border-bottom-color: rgb(51, 102, 0);\">capital</a>&nbsp;por parte de una&nbsp;<a\
+    \ href=\"https://www.monografias.com/trabajos7/perde/perde.shtml\" id=\"autolink\"\
+    \ class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width: 1px;\
+    \ border-bottom-color: rgb(51, 102, 0);\">persona</a>&nbsp;o&nbsp;<a href=\"https://www.monografias.com/trabajos11/empre/empre.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">empresa</a>. Las finanzas se refieren\
+    \ a la forma como se obtienen los recursos, a la forma como se gastan o consumen,\
+    \ a la forma como se invierten, pierden o rentabilizan.</p><p style=\"margin-top:\
+    \ 9px; margin-bottom: 9px; padding: 0px; color: rgb(68, 85, 85); font-family:\
+    \ Georgia, &quot;Times New Roman&quot;, Times, serif;\">La investigaci\xF3n se\
+    \ realiz\xF3 con el&nbsp;<a href=\"https://www.monografias.com/trabajos7/tain/tain.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">inter\xE9s</a>&nbsp;de conocer\
+    \ la importancia de las finanzas y su impacto en las diferentes etapas donde se\
+    \ toman en cuenta los&nbsp;<a href=\"https://www.monografias.com/trabajos5/estafinan/estafinan.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">estados financieros</a>,&nbsp;<a\
+    \ href=\"https://www.monografias.com/trabajos14/mercado-capitales/mercado-capitales.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">mercados financieros</a>, decisiones\
+    \ de&nbsp;<a href=\"https://www.monografias.com/trabajos12/cntbtres/cntbtres.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">inversi\xF3n</a>, decisiones de&nbsp;<a\
+    \ href=\"https://www.monografias.com/trabajos15/financiamiento/financiamiento.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">financiamiento</a>&nbsp;entre otros,\
+    \ logrando as\xED por medio de&nbsp;<a href=\"https://www.monografias.com/trabajos54/la-investigacion/la-investigacion.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">la investigaci\xF3n</a>&nbsp;un\
+    \ profundo&nbsp;<a href=\"https://www.monografias.com/trabajos/epistemologia2/epistemologia2.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">conocimiento</a>&nbsp;en relaci\xF3\
+    n al tema y utilizando diferentes&nbsp;<a href=\"https://www.monografias.com/trabajos14/medios-comunicacion/medios-comunicacion.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">medios</a>&nbsp;de&nbsp;<a href=\"\
+    https://www.monografias.com/trabajos7/sisinf/sisinf.shtml\" id=\"autolink\" class=\"\
+    autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width: 1px; border-bottom-color:\
+    \ rgb(51, 102, 0);\">informaci\xF3n</a>, dicha informaci\xF3n estar\xE1 basada\
+    \ en puntos estrat\xE9gicos nombrados a continuaci\xF3n:</p><ul style=\"margin-top:\
+    \ 5px; margin-left: 20px; padding-left: 15px; margin-bottom: 5px; color: rgb(68,\
+    \ 85, 85); font-family: Georgia, &quot;Times New Roman&quot;, Times, serif;\"\
+    ><li style=\"margin-top: 0px; margin-left: 0px; padding-left: 0px;\"><p style=\"\
+    margin-top: 9px; margin-bottom: 9px; padding: 0px;\">Conceptos generales de&nbsp;<a\
+    \ href=\"https://www.monografias.com/trabajos36/administracion-y-gerencia/administracion-y-gerencia.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">administraci\xF3n</a>&nbsp;financiera</p></li><li\
+    \ style=\"margin-top: 0px; margin-left: 0px; padding-left: 0px;\"><p style=\"\
+    margin-top: 9px; margin-bottom: 9px; padding: 0px;\">Visi\xF3n de las finanzas\
+    \ corporativas</p></li><li style=\"margin-top: 0px; margin-left: 0px; padding-left:\
+    \ 0px;\"><p style=\"margin-top: 9px; margin-bottom: 9px; padding: 0px;\">Objetivos\
+    \ y metas de la empresa</p></li><li style=\"margin-top: 0px; margin-left: 0px;\
+    \ padding-left: 0px;\"><p style=\"margin-top: 9px; margin-bottom: 9px; padding:\
+    \ 0px;\">Las finanzas como&nbsp;<a href=\"https://www.monografias.com/trabajos7/mafu/mafu.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">funci\xF3n</a>&nbsp;organizacional\
+    \ de la empresa</p></li><li style=\"margin-top: 0px; margin-left: 0px; padding-left:\
+    \ 0px;\"><p style=\"margin-top: 9px; margin-bottom: 9px; padding: 0px;\">Objetivos\
+    \ e importancia de&nbsp;<a href=\"https://www.monografias.com/Administracion_y_Finanzas/index.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">la administraci\xF3n</a>&nbsp;financiera</p></li><li\
+    \ style=\"margin-top: 0px; margin-left: 0px; padding-left: 0px;\"><p style=\"\
+    margin-top: 9px; margin-bottom: 9px; padding: 0px;\">El rol del&nbsp;<a href=\"\
+    https://www.monografias.com/trabajos3/gerenylider/gerenylider.shtml\" id=\"autolink\"\
+    \ class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width: 1px;\
+    \ border-bottom-color: rgb(51, 102, 0);\">gerente</a>&nbsp;financiero y sus funciones</p></li><li\
+    \ style=\"margin-top: 0px; margin-left: 0px; padding-left: 0px;\"><p style=\"\
+    margin-top: 9px; margin-bottom: 9px; padding: 0px;\">Valor y uso de la informaci\xF3\
+    n financiera para una gesti\xF3n eficiente</p></li><li style=\"margin-top: 0px;\
+    \ margin-left: 0px; padding-left: 0px;\"><p style=\"margin-top: 9px; margin-bottom:\
+    \ 9px; padding: 0px;\">Papel del ingeniero industrial en el \xE1rea financiera\
+    \ de una empresa</p></li></ul>"
   rules: []
   title: "Seminario de investigaci\xF3n"
